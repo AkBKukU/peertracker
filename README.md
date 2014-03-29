@@ -1,4 +1,5 @@
-#PeerTracker - Simple, Efficient and Fast BitTorent Tracker#
+#PeerTracker #
+###Simple, Efficient and Fast BitTorent Tracker###
 
 ##What Do You Need?##
    - HTTP Web Server. Apache, Nginx, lighttpd etc., anything that supports PHP.
